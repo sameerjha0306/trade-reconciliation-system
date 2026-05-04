@@ -79,7 +79,7 @@ trade-reconciliation-system/
 ### Step 1: Clone the Repository
 
 
-git clone https://github.com/your-username/trade-reconciliation-system.git
+git clone https://github.com/sameerjha0306/trade-reconciliation-system.git
 
 cd trade-reconciliation-system
 
@@ -144,9 +144,9 @@ It demonstrates how financial institutions improve efficiency, accuracy, and com
 ---
 
 ## 🙌 Author
-**Your Name**  
-- GitHub: https://github.com/your-username  
-- LinkedIn: (optional)
+**Sameer Jha**  
+- GitHub: https://github.com/sameerjha0306 
+
 
 ---
 
