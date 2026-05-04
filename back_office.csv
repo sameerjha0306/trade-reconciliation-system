@@ -1,0 +1,5 @@
+TradeID,Amount,Date,Status
+T001,10000,2026-04-01,Completed
+T002,25000,2026-04-02,Pending
+T003,15000,2026-04-03,Completed
+T005,40000,2026-04-05,Completed
